@@ -1,0 +1,198 @@
+
+
+.bodylinks a, .bodylinks a:visited {
+	text-decoration: none;
+	color: #666666;
+	border-bottom: 1px dotted #666666;
+	padding: 2px;
+	background-color: #FFFFFF;
+	clear:both;
+}
+
+.bodylinks a:hover {
+	text-decoration: underline;
+	color: #5FBDC7;
+	font-size: 10px;
+	font-weight:normal;
+	border-bottom: 1px dotted #666666;
+	background-color: #FFFFFF;
+	clear:both;
+}
+.bodylinks-2 a, .bodylinks-2 a:visited {
+	text-decoration: underline;
+	color: #999999;
+	padding: 2px;
+	font-size: 10px;
+	font-weight: bold;
+	border-bottom: 1px dotted #666666;
+}
+
+.bodylinks-2 a:hover {
+	text-decoration: underline;
+	color: #666666;
+	padding: 2px;
+	font-size: 10px;
+	font-weight: bold;
+	border-bottom: 1px dotted #666666;
+}
+.style1 {
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	line-height: 20px;
+}
+.style3 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.style4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	line-height: 17px;
+}
+.style5 {
+	font-family: Georgia;
+	font-size: 11px;
+	color: #666666;
+}
+.brown_elements {
+	font-family: Georgia;
+	font-size: 11px;
+	color: #633B21;
+	line-height: normal;
+}
+.sidebar_info {
+	font-family: Georgia;
+	font-size: 11px;
+	color: #777777;
+	line-height: 22px;
+	background-color: #ffffff;
+	margin: 7px;
+	padding: 0px;
+}
+.sidebar_info-bold {
+	font-family: Georgia;
+	font-size: 11px;
+	color: #777777;
+	font-weight: bold;
+	font-style:italic;
+	line-height: 22px;
+	background-color: #ffffff;
+	margin: 7px;
+	padding: 0px;
+}
+.padding{
+	margin: 5px;
+	padding: 7px;
+	border: 1px dashed #999999;
+	background-color: #Efefef;
+}
+
+.padding2{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F8F7EF;
+	border-top: 1px dashed #CCCCCC;
+	border-right: 1px none;
+	border-bottom: 1px dashed #CCCCCC;
+	border-left: 1px none;
+}
+.padding2Contents {padding-top: 0.5em; border-top: 5px solid white; padding-bottom: 0.75em; border-bottom: 5px solid white;}
+.padding3{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F8F7EF;
+	border-top: 1px none;
+	border-right: 1px none;
+	border-bottom: 1px dashed #CCCCCC;
+	border-left: 1px none;
+}
+
+.style8 {
+	font-size: 11px;
+	color: #333333;
+}.FeaturedBorder {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.dropCap {
+	float:left;
+	color:#666666;
+	font-size:60px;
+	line-height:40px;
+	padding-top:2px;
+	padding-bottom:4px;
+	font-family:"Times New Roman", Times, serif;
+	padding-right: 4px;
+} 
+.blue_titles {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #5FBDC7;
+	text-decoration: underline;
+}
+.blue_titles a, .blue_titles a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	padding: 2px;
+	color: #5FBDC7;
+	text-decoration: underline;
+}
+.blue_titles a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #5FBDC7;
+	padding: 2px;
+	text-decoration: underline;
+	border-bottom: 1px dotted #666666;
+}
+.grey_titles {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.subNav-blue_titles, .subNav-blue_titles a, .subNav-blue_titles a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #5FBDC7;
+	text-decoration: none;
+}
+.subNav-blue_titles a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #5FBDC7;
+	text-decoration: none;
+	border-bottom: 1px dotted #5FBDC7;
+}
+.sub_nav-links a {
+	text-decoration: none;
+	color: #999999;
+	font-size: 11px;
+	font-weight: bold;
+	border-bottom: 1px dotted #999999;
+	padding: 2px;
+	background-color: #FFFFFF;
+}
+
+.sub_nav-links a:hover {
+	text-decoration: underline;
+	color: #5FBDC7;
+	font-size: 11px;
+	font-weight: bold;
+	border-bottom: 1px dotted #999999;
+}
